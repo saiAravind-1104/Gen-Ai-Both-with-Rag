@@ -21,7 +21,7 @@ This app allows you to **ask questions about your PDF documents**, retrieves rel
 ## 🧱 Project Structure
 
 ```
-genai-rag-app/
+Gen-Ai-Both-with-Rag/
 │
 ├── src/
 │   └── resources/
