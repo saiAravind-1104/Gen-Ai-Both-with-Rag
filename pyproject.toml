@@ -1,0 +1,17 @@
+[project]
+name = "gen-ai-both-with-rag"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "faiss-cpu>=1.12.0",
+    "langchain==0.3.2",
+    "langchain-community>=0.3.1",
+    "langchain-groq>=0.3.2",
+    "langchain-huggingface>=0.2.0",
+    "langchain-text-splitters>=0.3.8",
+    "pypdf>=6.1.3",
+    "python-dotenv>=1.2.1",
+    "streamlit>=1.50.0",
+]
