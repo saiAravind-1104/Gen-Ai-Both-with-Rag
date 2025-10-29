@@ -50,15 +50,15 @@ Make sure you have the following installed:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git https://github.com/saiAravind-1104/Gen-Ai-Both-with-Rag.git
+cd Gen-Ai-Both-with-Rag
 ```
 
 ### 2️⃣ Create Environment Using uv
 
 ```bash
 uv venv
-uv pip install -r requirements.txt  # OR directly install from pyproject.toml
+uv pip install -r requirements.txt
 ```
 
 If your dependencies are defined only in `pyproject.toml`, simply run:
@@ -122,7 +122,7 @@ Retrieved chunks are passed to Groq's LLaMA model via LangChain's `create_stuff_
 > What is the main concept of Attention mechanism?
 
 **Assistant:**
-> The attention mechanism allows neural networks to focus on specific parts of the input sequence when generating output, improving performance in NLP tasks.
+> The main concept of the Attention mechanism is relating different positions.
 
 ---
 
