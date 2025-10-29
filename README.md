@@ -51,7 +51,7 @@ Make sure you have the following installed:
 
 ```bash
 git https://github.com/saiAravind-1104/Gen-Ai-Application-with-Rag.git
-cd Gen-Ai-Both-with-Rag
+cd Gen-Ai-Application-with-Rag
 ```
 
 ### 2️⃣ Create Environment Using uv
