@@ -164,7 +164,7 @@ Contributions are welcome! Please follow these steps:
 
 ## 👨‍💻 Author
 
-Created with ❤️ by **[Sai Aravinf]**
+Created with ❤️ by **[Sai Aravind Koduru]**
 
 - GitHub: [Sai Aravind Koduru](https://github.com/saiAravind-1104)
 - LinkedIn: [Sai Aravind Koduru](https://www.linkedin.com/in/sai-aravind-koduru-a704a5222)
