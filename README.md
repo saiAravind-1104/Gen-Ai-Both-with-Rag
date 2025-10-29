@@ -50,7 +50,7 @@ Make sure you have the following installed:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git https://github.com/saiAravind-1104/Gen-Ai-Both-with-Rag.git
+git https://github.com/saiAravind-1104/Gen-Ai-Application-with-Rag.git
 cd Gen-Ai-Both-with-Rag
 ```
 
